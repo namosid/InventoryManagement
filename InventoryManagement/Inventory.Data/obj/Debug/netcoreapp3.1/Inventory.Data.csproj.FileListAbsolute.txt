@@ -1,0 +1,12 @@
+D:\Proposals\Sarvan\InventoryManagement\Inventory.Data\bin\Debug\netcoreapp3.1\Inventory.Data.deps.json
+D:\Proposals\Sarvan\InventoryManagement\Inventory.Data\bin\Debug\netcoreapp3.1\Inventory.Data.dll
+D:\Proposals\Sarvan\InventoryManagement\Inventory.Data\bin\Debug\netcoreapp3.1\Inventory.Data.pdb
+D:\Proposals\Sarvan\InventoryManagement\Inventory.Data\obj\Debug\netcoreapp3.1\Inventory.Data.csprojAssemblyReference.cache
+D:\Proposals\Sarvan\InventoryManagement\Inventory.Data\obj\Debug\netcoreapp3.1\Inventory.Data.AssemblyInfoInputs.cache
+D:\Proposals\Sarvan\InventoryManagement\Inventory.Data\obj\Debug\netcoreapp3.1\Inventory.Data.AssemblyInfo.cs
+D:\Proposals\Sarvan\InventoryManagement\Inventory.Data\obj\Debug\netcoreapp3.1\Inventory.Data.dll
+D:\Proposals\Sarvan\InventoryManagement\Inventory.Data\obj\Debug\netcoreapp3.1\Inventory.Data.pdb
+D:\Proposals\Sarvan\InventoryManagement\Inventory.Data\bin\Debug\netcoreapp3.1\Inventory.Common.dll
+D:\Proposals\Sarvan\InventoryManagement\Inventory.Data\bin\Debug\netcoreapp3.1\Inventory.Common.pdb
+D:\Proposals\Sarvan\InventoryManagement\Inventory.Data\obj\Debug\netcoreapp3.1\Inventory.Data.csproj.CopyComplete
+D:\Proposals\Sarvan\InventoryManagement\Inventory.Data\obj\Debug\netcoreapp3.1\Inventory.Data.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+D:\Proposals\Sarvan\InventoryManagement\InventoryCommon\bin\Debug\netcoreapp3.1\Inventory.Common.deps.json
+D:\Proposals\Sarvan\InventoryManagement\InventoryCommon\bin\Debug\netcoreapp3.1\Inventory.Common.dll
+D:\Proposals\Sarvan\InventoryManagement\InventoryCommon\bin\Debug\netcoreapp3.1\Inventory.Common.pdb
+D:\Proposals\Sarvan\InventoryManagement\InventoryCommon\obj\Debug\netcoreapp3.1\Inventory.Common.csprojAssemblyReference.cache
+D:\Proposals\Sarvan\InventoryManagement\InventoryCommon\obj\Debug\netcoreapp3.1\Inventory.Common.AssemblyInfoInputs.cache
+D:\Proposals\Sarvan\InventoryManagement\InventoryCommon\obj\Debug\netcoreapp3.1\Inventory.Common.AssemblyInfo.cs
+D:\Proposals\Sarvan\InventoryManagement\InventoryCommon\obj\Debug\netcoreapp3.1\Inventory.Common.csproj.CoreCompileInputs.cache
+D:\Proposals\Sarvan\InventoryManagement\InventoryCommon\obj\Debug\netcoreapp3.1\Inventory.Common.dll
+D:\Proposals\Sarvan\InventoryManagement\InventoryCommon\obj\Debug\netcoreapp3.1\Inventory.Common.pdb
